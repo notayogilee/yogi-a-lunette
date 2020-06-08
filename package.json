@@ -1,0 +1,22 @@
+{
+  "name": "yogi-a-lunette",
+  "version": "1.0.0",
+  "description": "Yoga video website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notayogilee/yogi-a-lunette.git"
+  },
+  "author": "Lee Castelani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notayogilee/yogi-a-lunette/issues"
+  },
+  "homepage": "https://github.com/notayogilee/yogi-a-lunette#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
